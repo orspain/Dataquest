@@ -1,12 +1,10 @@
 # Dataquest
-Data Science Track - Exercises and activities towards Dataquest.io
 
-The subfolders contain the files and other notebooks pertaining to each of the guided projects. 
+## Data Scientist In Python - Dataquest.io  - Exercises and activities 
 
-Data Scientist In Python - Dataquest.io
+### Course Outline: 8 step Data Science Track
 
-
-Step 1 of 8: Python Introduction
+#### Step 1 of 8: Python Introduction
   
   
    	Course 1 of 2:
@@ -14,92 +12,95 @@ Step 1 of 8: Python Introduction
       	- Note: I'd already completed a 4-part Python programming course 
 	on EDx through GTx, CS 1301. This was mainly review. 
       	
-	Programming in Python
-      	Variables and Data Types
-      	Lists and For Loops
-      	Conditional Statements
-      	Dictionaries and Frequency Tables
-      	Functions: Fundamentals
-      	Functions: Intermediate
-      	Project: Learn and Install Jupyter Notebook
-      	Guided Project: Profitable App Profiles for the App Store and Google Play Markets
-      	Results in my github account
+	 - Programming in Python
+      	 - Variables and Data Types
+      	 - Lists and For Loops
+      	 - Conditional Statements
+      	 - Dictionaries and Frequency Tables
+      	 - Functions: Fundamentals
+      	 - Functions: Intermediate
+      	 - Project: Learn and Install Jupyter Notebook
+      	 - Guided Project: Profitable App Profiles for the App Store and Google Play Markets
+      	 - Results in my github account
     
    	Course 2 of 2: 
       Python for Data Science: Intermediate
         
-	Cleaning and Preparing Data in Python
-        Python Data Analysis Basics
-        Object-Oriented Python
-        Working with Dates and Times in Python
-        Guided Project: Exploring Hacker News Posts
-        Results in my github account
+	 - Cleaning and Preparing Data in Python
+         - Python Data Analysis Basics
+         - Object-Oriented Python
+         - Working with Dates and Times in Python
+         - Guided Project: Exploring Hacker News Posts
+         - Results in my github account
         
-Step 2 of 8: Data Analysis and Visualization
+#### Step 2 of 8: Data Analysis and Visualization
   
 	Course 1 of 6: 
     		NumPy and pandas Fundamentals
       	
- 	Intro to NumPy
-      	Boolean Indexing with NumPy
-      	Intro to pandas
-      	Exploring Data with pandas: Fundamentals
-      	Exploring Data with pandas: Intermediate
-      	Data Cleaning Basics
-      	Guided Project: Exploring Ebay Car Sales Data
-      	Results in my github account
+ 	 - Intro to NumPy
+      	 - Boolean Indexing with NumPy
+      	 - Intro to pandas
+      	 - Exploring Data with pandas: Fundamentals
+      	 - Exploring Data with pandas: Intermediate
+      	 - Data Cleaning Basics
+      	 - Guided Project: Exploring Ebay Car Sales Data
+      	 - Results in my github account
    
   
 	Course 2 of 6: 
    	 Exploratory Data Visualization
       
-	Line charts
-      	Multiple plots
-      	Bar plots and scatter plots
-      	Histograms and box plots
-      	Guided Project: Visualize Earnings Based on College Majors
-      	results in my github account
+	 - Line charts
+      	 - Multiple plots
+      	 - Bar plots and scatter plots
+      	 - Histograms and box plots
+      	 - Guided Project: Visualize Earnings Based on College Majors
+      	 - results in my github account
    
    	Course 3 of 6: 
       Storytelling through Data Visualization
         
-	Improving Plot Aesthetics
-        Color, Layout, and Annotations
-        Guided Project: Visualizing the Gender Gap in College Degrees
-        Results in my github account
-        Conditional Plots
-        Visualizing Geographic Data
+	 - Improving Plot Aesthetics
+         - Color, Layout, and Annotations
+         - Guided Project: Visualizing the Gender Gap in College Degrees
+         - Results in my github account
+         - Conditional Plots
+         - Visualizing Geographic Data
+	 	Note: Uses Basemap module which is deprecated, should change to Cartopy
     
    	Course 4 of 6: 
       		Data Cleaning and Analysis
         
-	Data Aggregation
-        Combining Data With pandas
-        Working With Strings In pandas
-        Working With Missing And Duplicate Data
-        Guided Project: Clean and Analyze Employee Exit Surveys
-        Results in my github account
+	 - Data Aggregation
+         - Combining Data With pandas
+         - Working With Strings In pandas
+         - Working With Missing And Duplicate Data
+         - Guided Project: Clean and Analyze Employee Exit Surveys
+         - Results in my github account
     
    	Course 5 of 6: 
       		Data Cleaning: Advanced
         
-	Regular Expression Basics
-        Advanced Regular Expressions
-        List Comprehensions and Lambda Functions
-        Working with Missing Data
+	 - Regular Expression Basics
+         - Advanced Regular Expressions
+         - List Comprehensions and Lambda Functions
+         - Working with Missing Data
    
    	Course 6 of 6: 
       		Data Cleaning Project Walkthrough
         
-	Data Cleaning Walkthrough
-        Data Cleaning Walkthrough: Combining the Data
-        Data Cleaning Walkthrough: Analyzing and Visualizing the Data
-        Guided Project: Analyzing NYC High School Data
-        Results in my github account
-        Challenge: Cleaning Data
-        Guided Project: Star Wars Survey
+	 - Data Cleaning Walkthrough
+         - Data Cleaning Walkthrough: Combining the Data
+         - Data Cleaning Walkthrough: Analyzing and Visualizing the Data
+         - Guided Project: Analyzing NYC High School SAT Data
+	 	- Note: Uses Basemap module which is deprecated
+         	- Results in my github account
+         - Challenge: Cleaning Data
+         - Guided Project: Star Wars Survey
+	 	- Results can be found in my github 
 
-Step 3 of 8: The Command Line
+#### Step 3 of 8: The Command Line
 
   	Course 1 of 2: 
     		Elements of the Command Line
@@ -119,7 +120,7 @@ Step 3 of 8: The Command Line
       	Redirection and Pipelines
       	Standard Streams and File Descriptors
 
-Step 4 of 8: Working with Data Sources
+#### Step 4 of 8: Working with Data Sources
   
   	Course 1 of 4: 
     	SQL Fundamentals
@@ -159,7 +160,7 @@ Step 4 of 8: Working with Data Sources
       	Challenge: Working with the reddit API
       	Web Scraping
 
-Step 5 of 8: Probability and Statistics
+#### Step 5 of 8: Probability and Statistics
 
   	Course 1 of 5: 
     	Statistics Fundamentals
@@ -211,7 +212,7 @@ Step 5 of 8: Probability and Statistics
       	Guided Project: Winning Jeopardy
       	Results in my github account
 
-Step 6 of 8: Machine Learning Intro
+#### Step 6 of 8: Machine Learning Intro
   
   	Course 1 of 6: 
     	Machine Learning Fundamentals
@@ -271,7 +272,7 @@ Step 6 of 8: Machine Learning Intro
       	Guided Project: Predicting Bike Rentals
       	Results in my github account
 
-Step 7 of 8: Machine Learning Intermediate
+#### Step 7 of 8: Machine Learning Intermediate
   
   	Course 1 of 5: 
    	Deep Learning Fundamentals
@@ -309,7 +310,7 @@ Step 7 of 8: Machine Learning Intermediate
       
 	Intro to NLP
 
-Step 8 of 8: Advanced Topics in Data Science
+#### Step 8 of 8: Advanced Topics in Data Science
   
 	Course 1 of 6: 
     	Functions - Advanced
