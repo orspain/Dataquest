@@ -12,7 +12,7 @@
       	- Note: I'd already completed a 4-part Python programming course 
 	on EDx through GTx, CS 1301. This was mainly review. 
       	
-	 - Programming in Python
+	 	- Programming in Python
       	 - Variables and Data Types
       	 - Lists and For Loops
       	 - Conditional Statements
@@ -26,7 +26,7 @@
    	Course 2 of 2: 
       Python for Data Science: Intermediate
         
-	 - Cleaning and Preparing Data in Python
+	 	- Cleaning and Preparing Data in Python
          - Python Data Analysis Basics
          - Object-Oriented Python
          - Working with Dates and Times in Python
@@ -38,7 +38,7 @@
 	Course 1 of 6: 
     		NumPy and pandas Fundamentals
       	
- 	 - Intro to NumPy
+ 	 	- Intro to NumPy
       	 - Boolean Indexing with NumPy
       	 - Intro to pandas
       	 - Exploring Data with pandas: Fundamentals
@@ -51,7 +51,7 @@
 	Course 2 of 6: 
    	 Exploratory Data Visualization
       
-	 - Line charts
+	 	- Line charts
       	 - Multiple plots
       	 - Bar plots and scatter plots
       	 - Histograms and box plots
@@ -61,7 +61,7 @@
    	Course 3 of 6: 
       Storytelling through Data Visualization
         
-	 - Improving Plot Aesthetics
+	 	- Improving Plot Aesthetics
          - Color, Layout, and Annotations
          - Guided Project: Visualizing the Gender Gap in College Degrees
          - Results in my github account
@@ -72,7 +72,7 @@
    	Course 4 of 6: 
       		Data Cleaning and Analysis
         
-	 - Data Aggregation
+	 	- Data Aggregation
          - Combining Data With pandas
          - Working With Strings In pandas
          - Working With Missing And Duplicate Data
@@ -82,7 +82,7 @@
    	Course 5 of 6: 
       		Data Cleaning: Advanced
         
-	 - Regular Expression Basics
+	 	- Regular Expression Basics
          - Advanced Regular Expressions
          - List Comprehensions and Lambda Functions
          - Working with Missing Data
@@ -90,7 +90,7 @@
    	Course 6 of 6: 
       		Data Cleaning Project Walkthrough
         
-	 - Data Cleaning Walkthrough
+	 	- Data Cleaning Walkthrough
          - Data Cleaning Walkthrough: Combining the Data
          - Data Cleaning Walkthrough: Analyzing and Visualizing the Data
          - Guided Project: Analyzing NYC High School SAT Data
