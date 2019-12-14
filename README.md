@@ -6,7 +6,7 @@ The subfolders contain the files and other notebooks pertaining to each of the g
 Data Scientist In Python - Dataquest.io
 
 
-	Step 1 of 8: Python Introduction
+Step 1 of 8: Python Introduction
   
   
    	Course 1 of 2:
