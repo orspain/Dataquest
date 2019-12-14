@@ -11,7 +11,8 @@ Step 1 of 8: Python Introduction
   
    	Course 1 of 2:
     Python for Data Science: Fundamentals
-      	- Note: I'd already completed a 4-part Python programming course on EDx through GTx, CS 1301. This was mainly review. 
+      	- Note: I'd already completed a 4-part Python programming course 
+	on EDx through GTx, CS 1301. This was mainly review. 
       	
 	Programming in Python
       	Variables and Data Types
