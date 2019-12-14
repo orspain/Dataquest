@@ -7,23 +7,27 @@ Data Scientist In Python - Dataquest.io
 
 Step 1 of 8: Python Introduction
   
-  Course 1/2:
+  
+	Course 1 of 2:
     Python for Data Science: Fundamentals
-      - Note: I'd already completed a 4-part Python programming course on EDx through GTx, CS 1301. This was mainly review. 
-      Programming in Python
-      Variables and Data Types
-      Lists and For Loops
-      Conditional Statements
-      Dictionaries and Frequency Tables
-      Functions: Fundamentals
-      Functions: Intermediate
-      Project: Learn and Install Jupyter Notebook
-      Guided Project: Profitable App Profiles for the App Store and Google Play Markets
-      Results in my github account
+      	- Note: I'd already completed a 4-part Python programming course on EDx through GTx, CS 1301. This was mainly review. 
+      	
+				Programming in Python
+      	Variables and Data Types
+      	Lists and For Loops
+      	Conditional Statements
+      	Dictionaries and Frequency Tables
+      	Functions: Fundamentals
+      	Functions: Intermediate
+      	Project: Learn and Install Jupyter Notebook
+      	Guided Project: Profitable App Profiles for the App Store and Google Play Markets
+      	Results in my github account
     
-   Course 2/2: 
+   
+	 Course 2 of 2: 
       Python for Data Science: Intermediate
-        Cleaning and Preparing Data in Python
+        
+				Cleaning and Preparing Data in Python
         Python Data Analysis Basics
         Object-Oriented Python
         Working with Dates and Times in Python
@@ -32,9 +36,11 @@ Step 1 of 8: Python Introduction
         
 Step 2 of 8: Data Analysis and Visualization
   
-  Course 1 of 6: 
+  
+	Course 1 of 6: 
     NumPy and pandas Fundamentals
-      Intro to NumPy
+      	
+			Intro to NumPy
       Boolean Indexing with NumPy
       Intro to pandas
       Exploring Data with pandas: Fundamentals
@@ -43,9 +49,11 @@ Step 2 of 8: Data Analysis and Visualization
       Guided Project: Exploring Ebay Car Sales Data
       Results in my github account
    
-  Course 2 of 6: 
+  
+	Course 2 of 6: 
     Exploratory Data Visualization
-      Line charts
+      
+			Line charts
       Multiple plots
       Bar plots and scatter plots
       Histograms and box plots
@@ -54,7 +62,8 @@ Step 2 of 8: Data Analysis and Visualization
    
    Course 3 of 6: 
       Storytelling through Data Visualization
-        Improving Plot Aesthetics
+        
+				Improving Plot Aesthetics
         Color, Layout, and Annotations
         Guided Project: Visualizing the Gender Gap in College Degrees
         Results in my github account
@@ -63,7 +72,8 @@ Step 2 of 8: Data Analysis and Visualization
     
    Course 4 of 6: 
       Data Cleaning and Analysis
-        Data Aggregation
+        
+				Data Aggregation
         Combining Data With pandas
         Working With Strings In pandas
         Working With Missing And Duplicate Data
@@ -72,14 +82,16 @@ Step 2 of 8: Data Analysis and Visualization
     
    Course 5 of 6: 
       Data Cleaning: Advanced
-        Regular Expression Basics
+        
+				Regular Expression Basics
         Advanced Regular Expressions
         List Comprehensions and Lambda Functions
         Working with Missing Data
    
    Course 6 of 6: 
       Data Cleaning Project Walkthrough
-        Data Cleaning Walkthrough
+        
+				Data Cleaning Walkthrough
         Data Cleaning Walkthrough: Combining the Data
         Data Cleaning Walkthrough: Analyzing and Visualizing the Data
         Guided Project: Analyzing NYC High School Data
@@ -91,7 +103,8 @@ Step 3 of 8: The Command Line
 
   Course 1 of 2: 
     Elements of the Command Line
-      Intro to the Command Line
+      
+			Intro to the Command Line
       The Filesystem
       Modifying the Filesystem
       Glob Patterns and Wildcards
@@ -99,7 +112,8 @@ Step 3 of 8: The Command Line
   
   Course 2 of 2: 
     Text Processing in the Command Line
-      Getting Help and Reading Documentation
+      
+			Getting Help and Reading Documentation
       File Inspection
       Text Processing
       Redirection and Pipelines
@@ -109,7 +123,8 @@ Step 4 of 8: Working with Data Sources
   
   Course 1 of 4: 
     SQL Fundamentals
-      Intro to SQL
+      
+			Intro to SQL
       Summary Statistics
       Group Summary Statistics
       Subqueries
@@ -118,7 +133,8 @@ Step 4 of 8: Working with Data Sources
 
   Course 2 of 4: 
     SQL Intermediate: Table Relations and Joins
-      Joining Data in SQL
+      
+			Joining Data in SQL
       Intermediate Joins in SQL
       Building and Organizing Complex Queries
       Guided Project: Answering Business Questions Using SQL
@@ -128,7 +144,8 @@ Step 4 of 8: Working with Data Sources
 
    Course 3 of 4: 
     SQL Databases: Advanced
-      Using PostgreSQL
+      
+			Using PostgreSQL
       Command Line PostgreSQL
       Project: PostgreSQL installation
       Introduction to Indexing
@@ -136,7 +153,8 @@ Step 4 of 8: Working with Data Sources
 
    Course 4 of 4: 
     APIs and Webscraping
-      Working with APIs
+      
+			Working with APIs
       Intermediate APIs
       Challenge: Working with the reddit API
       Web Scraping
@@ -145,7 +163,8 @@ Step 5 of 8: Probability and Statistics
 
   Course 1 of 5: 
     Statistics Fundamentals
-      Sampling
+      
+			Sampling
       Variables in Statistics
       Frequency Distributions
       Visualizing Frequency Distributions
@@ -154,7 +173,8 @@ Step 5 of 8: Probability and Statistics
 
   Course 2 of 5: 
     Statistics Intermediate: Averages and Variability
-      The Mean
+      
+			The Mean
       The Weighted Mean and the Median
       The Mode
       Measures of Variability
@@ -164,7 +184,8 @@ Step 5 of 8: Probability and Statistics
 
   Course 3 of 5: 
     Probability Fundamentals
-      Estimating Probability
+      
+			Estimating Probability
       Probability Rules
       Solving Complex Probability Problems
       Permutations and Combinations
@@ -173,7 +194,8 @@ Step 5 of 8: Probability and Statistics
 
   Course 4 of 5: 
     Conditional Probability
-      Conditional Probability Fundamentals
+      
+			Conditional Probability Fundamentals
       Conditional Probability Intermediate
       Bayes Theorem
       The Naive Bayes Theorem
@@ -182,7 +204,8 @@ Step 5 of 8: Probability and Statistics
 
   Course 5 of 5: 
     Hypothesis Testing Fundamentals
-      Significance Testing
+      
+			Significance Testing
       Chi-squared Tests
       Multi category Chi-squared Tests
       Guided Project: Winning Jeopardy
@@ -192,7 +215,8 @@ Step 6 of 8: Machine Learning Intro
   
   Course 1 of 6: 
     Machine Learning Fundamentals
-      Intro to K-nearest Neighbors
+      
+			Intro to K-nearest Neighbors
       Evaluating Model Performance
       Multivariate K-nearest Neighbors
       Hyperparameter Optimization
@@ -202,20 +226,23 @@ Step 6 of 8: Machine Learning Intro
 
   Course 2 of 6: 
     Calculus for Machine Learning
-      Understanding Linear and Nonlinear Functions
+      
+			Understanding Linear and Nonlinear Functions
       Understanding Limits
       Finding Extreme Points
 
   Course 3 of 6: 
     Linear Algebra for Machine Learning
-      Linear Systems
+      
+			Linear Systems
       Vectors
       Matrix Algebra
       Solution Sets
 
   Course 4 of 6: 
     Linear Regression for Machine Learning
-      The Linear Regression Model
+      
+			The Linear Regression Model
       Feature Selection
       Gradient Descent
       Ordinary Least Squares
@@ -224,7 +251,8 @@ Step 6 of 8: Machine Learning Intro
 
   Course 5 of 6: 
     Machine Learning in Python Intermediate
-      Logistic Regression
+      
+			Logistic Regression
       Intro to evaluating binary classifiers
       Multiclass classification
       Overfitting
@@ -235,7 +263,8 @@ Step 6 of 8: Machine Learning Intro
 
   Course 6 of 6: 
     Decision Trees
-      Intro to Decision Trees
+      
+			Intro to Decision Trees
       Building a Decision Tree
       Applying a Decision Tree
       Intro to Random Forests
@@ -246,7 +275,8 @@ Step 7 of 8: Machine Learning Intermediate
   
   Course 1 of 5: 
     Deep Learning Fundamentals
-      Representing Neural Networks
+      
+			Representing Neural Networks
       Nonlinear Activation Functions
       Hidden Layers
       Guided Project: Building a Handwritten Digits Classifier
@@ -254,36 +284,46 @@ Step 7 of 8: Machine Learning Intermediate
 
   Course 2 of 5: 
     Machine Learning Project
-      Machine Learning Project Walkthrough: Data Cleaning
+      
+			Machine Learning Project Walkthrough: Data Cleaning
       Machine Learning Project Walkthrough: Preparing the Features
       Machine Learning Project Walkthrough: Making Predictions
 
-  Course 3 of 5: 
+  
+	Course 3 of 5: 
     Kaggle Fundamentals
-      Getting Started with Kaggle
+      
+			Getting Started with Kaggle
       Feature Preparation, Selection, and Engineering
       Model Selection and Tuning
       Guided Project: Creating a Kaggle Workflow
       Results
 
-  Course 4 of 5: 
+  
+	Course 4 of 5: 
     Exploring Topics in Data Science
-      Naive Bayes for Sentiment Analysis
+      
+			Naive Bayes for Sentiment Analysis
       An Intro to K-Nearest Neighbors
   
-  Course 5 of 5: 
+  
+	Course 5 of 5: 
     Natural Language Processing
-      Intro to NLP
+      
+			Intro to NLP
 
 Step 8 of 8: Advanced Topics in Data Science
-  Course 1 of 6: 
+  
+	Course 1 of 6: 
     Functions - Advanced
-      Best Practices for Writing Functions
+      
+			Best Practices for Writing Functions
       Context Managers
       Intro to Decorators
       Decorators: Advanced
 
-  Course 2 of 6: 
+  
+	Course 2 of 6: 
     Data Structures and Algorithms
       Memory and Unicode
       Algorithms
@@ -295,7 +335,8 @@ Step 8 of 8: Advanced Topics in Data Science
     
   Course 3 of 6: 
     Python Programming: Advanced
-      OOP
+      
+			OOP
       Exception Handling
       Lambda Functions
       Intro to Computer Arch
@@ -303,7 +344,8 @@ Step 8 of 8: Advanced Topics in Data Science
 
   Course 4 of 6: 
    Command Line Intermediate
-      Working with programs
+      
+			Working with programs
       Command Line Python Scripting
       Challenge: Working with the Command Line
       Working with Jupyter Console
@@ -313,7 +355,8 @@ Step 8 of 8: Advanced Topics in Data Science
 
   Course 5 of 6: 
     Git and Version Control
-      Intro to Git
+      
+			Intro to Git
       Git Remotes
       Git Branches
       Merge Conflicts
@@ -321,7 +364,8 @@ Step 8 of 8: Advanced Topics in Data Science
 
   Course 6 of 6: 
     Spark and Map-reduce
-      Intro to Spark
+      
+			Intro to Spark
       Project: Spark Installation and Jupyter Notebook integration
       Transformations and Actions
       Challenge: Transforming Hamlet into a Data Set
