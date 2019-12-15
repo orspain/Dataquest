@@ -95,6 +95,7 @@
          - Data Cleaning Walkthrough: Analyzing and Visualizing the Data
          - Guided Project: Analyzing NYC High School SAT Data
 	 	- Note: Uses Basemap module which is deprecated
+		- I've created a Colaboratory notebook [here](https://colab.research.google.com/drive/1CfZOU7egU9YrH1xOS6vCIHDnB8BVz_OE#scrollTo=aS-ocfjZHXa4)
          	- Results in my github account
          - Challenge: Cleaning Data
          - Guided Project: Star Wars Survey
