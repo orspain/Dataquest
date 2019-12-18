@@ -95,14 +95,15 @@
          - Data Cleaning Walkthrough: Analyzing and Visualizing the Data
          - Guided Project: Analyzing NYC High School SAT Data
 	 	- Note: Uses Basemap module which is deprecated
-		- I've created a Colaboratory notebook [here](https://colab.research.google.com/drive/1CfZOU7egU9YrH1xOS6vCIHDnB8BVz_OE#scrollTo=aS-ocfjZHXa4)
+		- I've created a Colaboratory notebook 
          	- Results in my github account
          - Challenge: Cleaning Data
          - Guided Project: Star Wars Survey
 	 	- Results can be found in my github 
 
 #### Step 3 of 8: The Command Line
-
+	Note: Since these were command line exercises with which I was already familiar I didn't create a Jupyter notebook. 
+	
   	Course 1 of 2: 
     		Elements of the Command Line
       
@@ -143,6 +144,7 @@
       	Results in my github account
       	Table Relations and Normalization
       	Guided Project: Designing and Creating a Database
+		Note: The mlb.db file used is too large to upload directly. 
 
    	Course 3 of 4: 
     	SQL Databases: Advanced
