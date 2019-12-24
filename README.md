@@ -9,100 +9,102 @@
   
    	Course 1 of 2:
     Python for Data Science: Fundamentals
-      	- Note: I'd already completed a 4-part Python programming course 
+      	Note: I'd already completed a 4-part Python programming course 
 	on EDx through GTx, CS 1301. This was mainly review. 
       	
-	 	- Programming in Python
-      	 - Variables and Data Types
-      	 - Lists and For Loops
-      	 - Conditional Statements
-      	 - Dictionaries and Frequency Tables
-      	 - Functions: Fundamentals
-      	 - Functions: Intermediate
-      	 - Project: Learn and Install Jupyter Notebook
-      	 - Guided Project: Profitable App Profiles for the App Store and Google Play Markets
-      	 - Results in my github account
+	 Programming in Python
+      	 Variables and Data Types
+      	 Lists and For Loops
+      	 Conditional Statements
+      	 Dictionaries and Frequency Tables
+      	 Functions: Fundamentals
+      	 Functions: Intermediate
+      	 Project: Learn and Install Jupyter Notebook
+      	 Guided Project: Profitable App Profiles for the App Store and Google Play Markets
+      	 	Results in my github account
     
    	Course 2 of 2: 
       Python for Data Science: Intermediate
         
-	 	- Cleaning and Preparing Data in Python
-         - Python Data Analysis Basics
-         - Object-Oriented Python
-         - Working with Dates and Times in Python
-         - Guided Project: Exploring Hacker News Posts
-         - Results in my github account
+	 Cleaning and Preparing Data in Python
+         Python Data Analysis Basics
+         Object-Oriented Python
+         Working with Dates and Times in Python
+         Guided Project: Exploring Hacker News Posts
+         	Results in my github account
         
 #### Step 2 of 8: Data Analysis and Visualization
   
 	Course 1 of 6: 
     		NumPy and pandas Fundamentals
       	
- 	 	- Intro to NumPy
-      	 - Boolean Indexing with NumPy
-      	 - Intro to pandas
-      	 - Exploring Data with pandas: Fundamentals
-      	 - Exploring Data with pandas: Intermediate
-      	 - Data Cleaning Basics
-      	 - Guided Project: Exploring Ebay Car Sales Data
-      	 - Results in my github account
+ 	 Intro to NumPy
+      	 Boolean Indexing with NumPy
+      	 Intro to pandas
+      	 Exploring Data with pandas: Fundamentals
+      	 Exploring Data with pandas: Intermediate
+      	 Data Cleaning Basics
+      	 Guided Project: Exploring Ebay Car Sales Data
+      	 	Results in my github account
    
   
 	Course 2 of 6: 
    	 Exploratory Data Visualization
       
-	 	- Line charts
-      	 - Multiple plots
-      	 - Bar plots and scatter plots
-      	 - Histograms and box plots
-      	 - Guided Project: Visualize Earnings Based on College Majors
-      	 - results in my github account
+	 Line charts
+      	 Multiple plots
+      	 Bar plots and scatter plots
+      	 Histograms and box plots
+      	 Guided Project: Visualize Earnings Based on College Majors
+      	 results in my github account
    
    	Course 3 of 6: 
       Storytelling through Data Visualization
         
-	 	- Improving Plot Aesthetics
-         - Color, Layout, and Annotations
-         - Guided Project: Visualizing the Gender Gap in College Degrees
-         - Results in my github account
-         - Conditional Plots
-         - Visualizing Geographic Data
-	 	Note: Uses Basemap module which is deprecated, should change to Cartopy
+	 Improving Plot Aesthetics
+         Color, Layout, and Annotations
+         Guided Project: Visualizing the Gender Gap in College Degrees
+         	Results in my github account
+         Conditional Plots
+         Visualizing Geographic Data
+	 	Note: Uses Basemap module which is deprecated, 
+		should change to Cartopy
     
    	Course 4 of 6: 
       		Data Cleaning and Analysis
         
-	 	- Data Aggregation
-         - Combining Data With pandas
-         - Working With Strings In pandas
-         - Working With Missing And Duplicate Data
-         - Guided Project: Clean and Analyze Employee Exit Surveys
-         - Results in my github account
+	 Data Aggregation
+         Combining Data With pandas
+         Working With Strings In pandas
+         Working With Missing And Duplicate Data
+         Guided Project: Clean and Analyze Employee Exit Surveys
+         	Results in my github account
     
    	Course 5 of 6: 
       		Data Cleaning: Advanced
         
-	 	- Regular Expression Basics
-         - Advanced Regular Expressions
-         - List Comprehensions and Lambda Functions
-         - Working with Missing Data
+	 Regular Expression Basics
+         Advanced Regular Expressions
+         List Comprehensions and Lambda Functions
+         Working with Missing Data
    
    	Course 6 of 6: 
       		Data Cleaning Project Walkthrough
         
-	 	- Data Cleaning Walkthrough
-         - Data Cleaning Walkthrough: Combining the Data
-         - Data Cleaning Walkthrough: Analyzing and Visualizing the Data
-         - Guided Project: Analyzing NYC High School SAT Data
-	 	- Note: Uses Basemap module which is deprecated
-		- I've created a Colaboratory notebook 
-         	- Results in my github account
-         - Challenge: Cleaning Data
-         - Guided Project: Star Wars Survey
+	 Data Cleaning Walkthrough
+         Data Cleaning Walkthrough: Combining the Data
+         Data Cleaning Walkthrough: Analyzing and Visualizing the Data
+         Guided Project: Analyzing NYC High School SAT Data
+	 	Note: Uses Basemap module which is deprecated
+		I've created a Colaboratory notebook 
+         	Results in my github account
+         Challenge: Cleaning Data
+         Guided Project: Star Wars Survey
 	 	- Results can be found in my github 
 
 #### Step 3 of 8: The Command Line
-	Note: Since these were command line exercises with which I was already familiar I didn't create a Jupyter notebook. 
+	Note: Since these were command line exercises with 
+	which I was already familiar I didn't create a Jupyter notebook. 
 	
   	Course 1 of 2: 
     		Elements of the Command Line
