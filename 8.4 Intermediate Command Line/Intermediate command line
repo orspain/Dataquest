@@ -1,0 +1,11 @@
+echo -e 'if __name__ == "__main__":\n    print("Welcome to a Python script")' > script.py
+python script.py
+
+echo -e 'def print_message():\n    print("Hello from another file!")' > utils.py
+echo -e 'import utils\n\nif __name__ == "__main__":\n    utils.print_message()' > script.py
+python script.py
+
+echo -e 'import sys\n\nif __name__ == "__main__":\n    print(sys.argv[1])' > script.py
+python script.py "Hello from the command line"
+
+
